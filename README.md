@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/831644?s=400&v=4" alt="Paulo de Tarço" width="150px" align="right"/>
 Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu trabalho é garantir que sistemas sejam rápidos, eficientes e confiáveis, integrando automação e boas práticas para otimizar sua performance. Tenho experiência em melhorar a escalabilidade e a resiliência de infraestruturas, garantindo que atendam às demandas de alto desempenho com estabilidade. Gosto de enfrentar desafios complexos e sempre busco soluções inovadoras para tornar a tecnologia mais ágil e segura.
 
-## Contact
+## Contato
 <section>
    <!-- <a href="https://wa.me/5521988881994" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp">
@@ -13,6 +13,9 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     </a>
     <a href="https://www.linkedin.com/in/paulodetarco" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="http://lattes.cnpq.br/2474826232804293" target="_blank" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lattes">
     </a>
     <!-- <a href="https://linktr.ee/marlenemoraes" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
