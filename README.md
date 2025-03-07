@@ -41,7 +41,7 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
 </section>       
 
 ## Additional Informations
-- Bolsista Qualitec no projeto [Singrar](https://www.singrar.uerj.br/), onde tenho a oportunidade de aprimorar minhas habilidades em infraestrutura e computação de alto desempenho.
+- Bolsista Qualitec no projeto [Singrar](https://www.singrar.uerj.br/), onde tenho a oportunidade de aprimorar minhas habilidades em infraestrutura, DevOps e computação de alto desempenho.
 
 <div align="center">
     <img src=".\assets\coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>
