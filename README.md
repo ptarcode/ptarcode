@@ -29,10 +29,19 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg" alt="Ansible"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" alt="Apache"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-plain.svg" alt="Grafana"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" alt="Pfsense"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"/>
 </section>       
 
 ## Additional Informations
-- ......
+- Bolsista Qualitec no projeto [Singrar](https://www.singrar.uerj.br/), onde tenho a oportunidade de aprimorar minhas habilidades em infraestrutura e computação de alto desempenho.
 
 <div align="center">
     <img src=".\assets\coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>
