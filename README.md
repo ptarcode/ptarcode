@@ -1,7 +1,7 @@
 # Paulo de Tarço
 
 <img src="https://avatars.githubusercontent.com/u/831644?s=400&v=4" alt="Paulo de Tarço" width="150px" align="right"/>
-Engenheiro de software com foco em DevOps e computação de alto desempenho. Trabalho para tornar sistemas mais rápidos, eficientes e confiáveis, garantindo que tudo funcione de forma integrada e automatizada. Gosto de desafios que envolvem escalabilidade e desempenho, sempre buscando soluções inovadoras.
+Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu trabalho é garantir que sistemas sejam rápidos, eficientes e confiáveis, integrando automação e boas práticas para otimizar sua performance. Tenho experiência em melhorar a escalabilidade e a resiliência de infraestruturas, garantindo que atendam às demandas de alto desempenho com estabilidade. Gosto de enfrentar desafios complexos e sempre busco soluções inovadoras para tornar a tecnologia mais ágil e segura.
 
 ## Contact
 <section>
