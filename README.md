@@ -22,8 +22,8 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     </a> -->
 </section>
 
-## Qualifications
-### Skills
+## Qualificações
+### Habilidades
 <section>
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  alt="Nodejs"/>
@@ -43,7 +43,7 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"/>
 </section>       
 
-## Additional Informations
+## Informação Adicional
 - Bolsista Qualitec no projeto [Singrar](https://www.singrar.uerj.br/), onde tenho a oportunidade de aprimorar minhas habilidades em infraestrutura, DevOps e computação de alto desempenho.
 
 <div align="center">
