@@ -15,7 +15,7 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="http://lattes.cnpq.br/2474826232804293" target="_blank" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lattes">
+        <img src="https://img.shields.io/badge/CV-Lattes-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="CV-Lattes">
     </a>
     <!-- <a href="https://linktr.ee/marlenemoraes" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
