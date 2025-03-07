@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp">
     </a> -->
     <a href="mailto:ptarcode@gmail.com" target="_blank" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/paulodetarco" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
