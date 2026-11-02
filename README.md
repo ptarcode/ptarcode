@@ -21,12 +21,12 @@ I apply DevOps best practices — continuous integration, continuous delivery, v
 
 ## Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [hpc-manager](https://hpcmanager.com.br/) | Cluster and user administration in HPC environments | rust · react |
-| [clima-tempo](https://www.npmjs.com/package/clima-tempo) | Node.js module with weather forecasts for Brazilian cities | node · npm |
-| [previsao-clima-tempo](https://rubygems.org/gems/previsao-clima-tempo) | Ruby gem with weather conditions from Clima Tempo | ruby · gem |
-| [agendare-schedule](https://rubygems.org/gems/agendare-schedule) | Ruby gem with a basic scheduling structure | ruby · gem |
+| Project | Description | Technologies |
+|---|---|---|
+| <a href="https://hpcmanager.com.br/" target="_blank" rel="noopener noreferrer">hpc-manager</a> | Cluster and user administration in HPC environments | rust · react |
+| <a href="https://www.npmjs.com/package/clima-tempo" target="_blank" rel="noopener noreferrer">clima-tempo</a> | Node.js module with weather forecasts for Brazilian cities | node · npm |
+| <a href="https://rubygems.org/gems/previsao-clima-tempo" target="_blank" rel="noopener noreferrer">previsao-clima-tempo</a> | Ruby gem with weather conditions from Clima Tempo | ruby · gem |
+| <a href="https://rubygems.org/gems/agendare-schedule" target="_blank" rel="noopener noreferrer">agendare-schedule</a> | Ruby gem with a basic scheduling structure | ruby · gem |
 
 ## Labs
 
