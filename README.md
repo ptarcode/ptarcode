@@ -23,7 +23,7 @@ I apply DevOps best practices — continuous integration, continuous delivery, v
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [hpc-manager](https://github.com/ptarcode/hpc_manager) | Cluster and user administration in HPC environments | rust · react |
+| [hpc-manager](https://hpcmanager.com.br/) | Cluster and user administration in HPC environments | rust · react |
 | [clima-tempo](https://www.npmjs.com/package/clima-tempo) | Node.js module with weather forecasts for Brazilian cities | node · npm |
 | [previsao-clima-tempo](https://rubygems.org/gems/previsao-clima-tempo) | Ruby gem with weather conditions from Clima Tempo | ruby · gem |
 | [agendare-schedule](https://rubygems.org/gems/agendare-schedule) | Ruby gem with a basic scheduling structure | ruby · gem |
